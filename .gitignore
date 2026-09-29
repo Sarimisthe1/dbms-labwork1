@@ -1,0 +1,9 @@
+# Compiled / binary backups
+*.backup
+
+# CSV data exports (optional - remove this line if you want to keep sample CSVs)
+*.csv
+
+# Local environment / secrets
+*.env
+pgpass.conf
